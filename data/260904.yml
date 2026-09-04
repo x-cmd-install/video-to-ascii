@@ -7,7 +7,7 @@ about:
   head: b04a494
   archived: false
   latestVersion: 1.2.9
-  collectedAt: 2026-09-04T19:19:24Z
+  collectedAt: 2026-09-04T21:15:59Z
 timeline:
   created: 2018-11-25
   lastCommit: 2025-09-27
@@ -81,6 +81,49 @@ total:
   openIssue: 24
   commit: 198
 ---
+path: /home/runner/.x-repo/github.com/joelibaceta/video-to-ascii
+collectedAt: 2026-09-04T21:16:02Z
+loc:
+  Python:
+    code: 542
+    comments: 12
+    blanks: 94
+    files: 15
+  Svg:
+    code: 98
+    comments: 2
+    blanks: 0
+    files: 3
+  Toml:
+    code: 62
+    comments: 0
+    blanks: 8
+    files: 1
+  Autoconf:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 3
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 353
+    blanks: 237
+    files: 4
+  Text:
+    code: 0
+    comments: 13
+    blanks: 2
+    files: 1
+total:
+  code: 743
+  comments: 382
+  blanks: 345
+  files: 26
 ---
 date: "2026-08-24"
 repo:
