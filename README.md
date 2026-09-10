@@ -12,6 +12,28 @@ It is a simple python package to play videos in the terminal using characters as
 x install video-to-ascii
 ```
 
+## Code insight
+
+Total: **712** lines of code across **21** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 542 | 12 | 94 | 15 |
+| Svg | 98 | 2 | 0 | 3 |
+| Toml | 62 | 0 | 8 | 1 |
+| Autoconf | 7 | 0 | 0 | 1 |
+| Dockerfile | 3 | 0 | 3 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.4 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/joelibaceta/video-to-ascii>
@@ -35,30 +57,11 @@ x install video-to-ascii
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 1 | 2 |
-
-## Code size
-
-Total: **712** lines of code across **21** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 542 | 12 | 94 | 15 |
-| Svg | 98 | 2 | 0 | 3 |
-| Toml | 62 | 0 | 8 | 1 |
-| Autoconf | 7 | 0 | 0 | 1 |
-| Dockerfile | 3 | 0 | 3 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.4 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| last720d | 2024-09-20 | 0 | 1 | 1 | 0 | 1 | 5 |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for video-to-ascii lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:06:01Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:58:41Z._
