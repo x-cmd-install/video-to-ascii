@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,867 · **Forks**: 151 · **Open issues**: 56 · **Contributors**: 20
+- **Stars**: 1,867 · **Forks**: 151 · **Open issues**: 55 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 27 · **Open PRs**: 3 · **Closed issues**: 32 · **Open issues**: 24 · **Commits**: 198
+- **Releases**: 3 · **Merged PRs**: 27 · **Open PRs**: 3 · **Closed issues**: 31 · **Open issues**: 24 · **Commits**: 198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last720d | 2024-10-15 | 0 | 1 | 0 | 0 | 1 | 5 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-10-16 | 0 | 1 | 0 | 0 | 1 | 5 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for video-to-ascii lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:53:44Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:54:30Z._
